@@ -1,0 +1,38 @@
+id: IDAE34D48
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T00:59:01.039155'
+last_modified: '2022-06-19T00:59:01.039166'
+parser: null
+source_metadata:
+  title: Eulogy of the Disciples in the Lineage of rDo rje gdan pa Kun dga rnam rgyal
+    (1432-1496)
+  author: མི་གསལ།
+  description: 'Digital version 2.0 {Tibetan}; master xml (completed: 2015-04-26);
+    converted from external file, no thematic TEI markup'
+  file_info:
+  - 'Language: Tibetan'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:ས་སྐྱ་ཞིབ་འཇུག་ཁང་། (src)
+  - Text input:བློ་གསལ་དོན་གྲུབ། (ld)
+  - Editorial process:Mathias Fermer (mf), བློ་གསལ་དོན་གྲུབ། (ld)
+  - TEI Encoding:ས་སྐྱ་ཞིབ་འཇུག་ཁང་།
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/391
+  bases:
+    073b:
+      title: Eulogy of the Disciples in the Lineage of rDo rje gdan pa Kun dga rnam
+        rgyal (1432-1496)
+      order: 1
+      base_file: 073b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
